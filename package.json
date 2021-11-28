@@ -1,7 +1,7 @@
 {
-  "name": "iframedoc",
+  "name": "iframe-doc",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a static web page",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
